@@ -15,26 +15,22 @@ Create stunning vector and graphic art with Python using the Turtle framework. D
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/awesome-turtle-art.git
+   git clone https://github.com/CYBERBULL123/Python-GUI-Graphics.git
    ```
 
 2. **Navigate to the Project:**
    ```bash
-   cd awesome-turtle-art
+   cd Python-GUI-Graphics
    ```
 
 3. **Run the Python Script:**
    ```bash
-   python turtle_art.py
+   python3 your file .py 
    ```
 
 4. **Explore and Create:**
    Open the script in your favorite editor and start creating your own masterpieces!
 
-## Examples
-
-![Turtle Art Example 1](/examples/example1.png)
-![Turtle Art Example 2](/examples/example2.png)
 
 ## Contributing
 
@@ -58,4 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Happy coding and creating! 🚀✨
 ```
 
-Feel free to customize it further based on your project's specific details and requirements.
