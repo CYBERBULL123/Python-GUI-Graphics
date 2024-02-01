@@ -1,4 +1,3 @@
-```markdown
 # Awesome Python Turtle Art 🐢🎨
 
 Create stunning vector and graphic art with Python using the Turtle framework. Dive into the world of immersive arts with this vibrant and creative Python project.
